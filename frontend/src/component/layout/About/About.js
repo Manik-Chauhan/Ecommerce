@@ -18,7 +18,7 @@ const About = () => {
           <div>
             <Avatar
               style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src="https://res.cloudinary.com/tripleayt/image/upload/v1631555947/products/jpyibarlaxawvcvqjv5b.png"
+              src="https://media.discordapp.net/attachments/1006308252843249766/1009179253625061478/Rocker_shiv_god_unreal_nirvana_peace_galaxy_dd6866ec-6589-490d-95ea-ed189c6d85be.png?width=591&height=591"
               alt="Founder"
             />
             <Typography>Manik Chauhan</Typography>
